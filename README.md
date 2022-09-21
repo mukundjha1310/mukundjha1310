@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **WhatsApp Clone**
 
-- 👨‍💻 All of my projects are available at [https://mukundjha1310.github.io/mukundjha.github.io/](https://mukundjha1310.github.io/mukundjha.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mukundjha1310.github.io/mukundjha.github.io/)
 
 - 💬 Ask me about **Software Development related stuffs**
 
 - 📫 How to reach me **mukundjha1310@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/my-drive)
 
 - ⚡ Fun fact **I sing very well...**
 
