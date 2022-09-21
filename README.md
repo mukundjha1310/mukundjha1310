@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mukundjha1310@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18joPVrmg1TA4vbEJ5vn9P5DOEhGXR3yv/view?usp=sharing)
 
 - ⚡ Fun fact **I sing very well...**
 
