@@ -5,7 +5,7 @@
 
 <br>
 
-<p align="center"><a align="center" href="https://mukundjha1310.github.io/mukundjha.github.io/"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile!;Click+to+visit+my+Portfolio..." /></a></p>
+<p align="center"><a align="center" href="https://mukundjha1310.github.io/mukundjha.github.io/"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile...!;Click+to+visit+my+Portfolio..." /></a></p>
 
 <h2 align="center">A Passionate Coder from India.<br>Always curious and have unending enthusiasm to solve problems.<br>Always hungry and thirsty for knowledge and learning new things.</h2>
 
