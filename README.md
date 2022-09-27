@@ -1,13 +1,12 @@
-<h1 align="center">Hi there 👋, I'm Mukund Jha</h1>
-<h2 align="center">A Passionate Coder from India</h2>
+
+![wallpapersden_git](https://user-images.githubusercontent.com/105915717/192456861-56f01667-a02d-402e-a1b5-d236b3dc3ab4.jpg)
+
+<h1 align="center" width="40" >Hi there 👋, I'm Mukund Jha</h1>
+<h2 align="center">A Passionate Coder from India.<br>Always curious and have unending enthusiasm to solve problems.<br>Always hungry and thirsty for knowledge and learning new things.</h2>
 
 - 🔭 I’m currently working on **SQL**
 
 - 🌱 I’m currently learning **JAVA Back-End Development**
-
-- 👯 I’m looking to collaborate on **YouTube Clone**
-
-- 🤝 I’m looking for help with **WhatsApp Clone**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mukundjha1310.github.io/mukundjha.github.io/)
 
