@@ -33,10 +33,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mr_mukundjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mr_mukundjha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mukundjha1310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundjha1310" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100007043711201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100007043711201" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mukundjha1310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukundjha1310" height="30" width="40" /></a>
+<a href="https://twitter.com/@mr_mukundjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mr_mukundjha" height="40" width="40" /> </a>
+<a href="https://linkedin.com/in/mukundjha1310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundjha1310" height="40" width="40" /> </a>
+<a href="https://fb.com/profile.php?id=100007043711201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100007043711201" height="40" width="40" /> </a>
+<a href="https://www.leetcode.com/mukundjha1310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukundjha1310" height="40" width="40" /> </a>
 </p>
 
 
@@ -44,7 +44,7 @@
 
 
 <div align="center">
-<h3 align="left" border="0"> Languages And Tools <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"/></h3>
+<h3 align="left" border="0"> Languages And Tools <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25"/></h3>
 <br>
 <table align="center">
 <tbody>
@@ -99,7 +99,7 @@
 
 <h3>Statistical Data :</h3>
 <br>
-<p><img align="center"
+<p><img align="center" width="60%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mukundjha1310&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="mukundjha1310" 
     bg_color=#808080/></p>
@@ -107,21 +107,20 @@
 <br>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukundjha1310&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=mukundjha1310&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="mukundjha1310" /></p>
 
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukundjha1310&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mukundjha1310" /></p>
-      
-<p align="center"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mukundjha1310&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mukundjha1310" /></p>
 
 
+<br>
+<br>
 
 <p>
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mukundjha1310&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
+   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mukundjha1310&theme=gruvbox&hide_border=true&area=true"  width="100%"/>
 </p>
 
 <br>
