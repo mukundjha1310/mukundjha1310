@@ -12,6 +12,8 @@
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukundjha1310&label=Profile%20views&color=0e75b6&style=flat" alt="subo8083" /> </p>
+
 <img src="https://user-images.githubusercontent.com/105915717/192617762-4a3e755e-e814-484b-a365-5d139d116bd1.gif" alt="" align="right" width="40%"/>
 
 - 🔭 I’m currently working on **SQL**
