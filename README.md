@@ -12,6 +12,7 @@
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/105915717/192617762-4a3e755e-e814-484b-a365-5d139d116bd1.gif" alt="" align="right" width="40%"/>
 
 - 🔭 I’m currently working on **SQL**
 
@@ -124,3 +125,4 @@
 <br>
 <br>
 
+<h2 align="center">Thank you for being my follower 😇 & visiting my GitHub profile. 🙏</h2>
