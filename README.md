@@ -99,24 +99,22 @@
 
 <h3>Statistical Data :</h3>
 <br>
-<p><img align="center" width="60%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mukundjha1310&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="mukundjha1310" 
-    bg_color=#808080/></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukundjha1310&count_private=true&theme=algolia" alt="mukundjha1310's GitHub stats" width="60%"/>
+</div>
 
 <br>
-<br>
 
-<p>&nbsp;<img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=mukundjha1310&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="mukundjha1310" /></p>
-
-<br>
-<br>
-
-<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mukundjha1310&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mukundjha1310" /></p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundjha1310&langs_count=8&theme=algolia" alt="mukundjha1310's GitHub stats" width="40%"/>
+</div>
 
 <br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukundjha1310&theme=algolia" alt="mukundjha1310's GitHub stats" width="60%"/>
+</div>
+
 <br>
 
 <p>
