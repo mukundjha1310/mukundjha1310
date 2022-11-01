@@ -40,20 +40,20 @@
 <tbody>
 <tr valign="top">
 <td width="25%" align="center">
-<span><b>Twitter</b></span><br><br>
-<a href="https://twitter.com/@mr_mukundjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mr_mukundjha" height="50" width="50" /> </a>
-</td>
-<td width="25%" align="center">
 <span><b>Linkedin</b></span><br><br>
 <a href="https://linkedin.com/in/mukundjha1310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundjha1310" height="50" width="50" /> </a>
 </td>
 <td width="25%" align="center">
-<span><b>Facebook</b></span><br><br>
-<a href="https://fb.com/profile.php?id=100007043711201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100007043711201" height="50" width="50" /> </a>
-</td>
-<td width="25%" align="center">
 <span><b>HackerRank</b></span><br><br>
 <a href="https://www.hackerrank.com/mukundjha1310" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png?20180109055843" alt="mukundjha1310" height="70" width="70" /> </a>
+</td>
+<td width="25%" align="center">
+<span><b>Twitter</b></span><br><br>
+<a href="https://twitter.com/@mr_mukundjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mr_mukundjha" height="50" width="50" /> </a>
+</td>
+<td width="25%" align="center">
+<span><b>Facebook</b></span><br><br>
+<a href="https://fb.com/profile.php?id=100007043711201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100007043711201" height="50" width="50" /> </a>
 </td>
 </tr>
 </tbody>
@@ -76,12 +76,12 @@
 <img height="64px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
 </td>
 <td width="25%" align="center">
-<span><b>SpringBoot</b></span><br><br>
-<img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
-</td>
-<td width="25%" align="center">
 <span><b>HIBERNATE</b></span><br><br>
 <img height="64px" src="https://hibernate.org/images/hibernate-logo.svg">
+</td>
+<td width="25%" align="center">
+<span><b>SpringBoot</b></span><br><br>
+<img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
 </td>
 </tr>
 
