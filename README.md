@@ -48,6 +48,10 @@
 <a href="https://www.hackerrank.com/mukundjha1310" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png?20180109055843" alt="mukundjha1310" height="70" width="70" /> </a>
 </td>
 <td width="25%" align="center">
+<span><b>LeetCode</b></span><br><br>
+<a href="https://leetcode.com/mukundjha1310/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="mukundjha1310" height="70" width="70" /> </a>
+</td>
+<td width="25%" align="center">
 <span><b>Twitter</b></span><br><br>
 <a href="https://twitter.com/@mr_mukundjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mr_mukundjha" height="50" width="50" /> </a>
 </td>
