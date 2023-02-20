@@ -137,13 +137,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukundjha1310&theme=algolia" alt="mukundjha1310's GitHub stats" width="60%"/>
 </div>
 
-<br>
 
-<p>
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mukundjha1310&theme=gruvbox&hide_border=true&area=true"  width="100%"/>
-</p>
-
-<br>
 <br>
 
 <h2 align="center">Thank you for being my follower 😇 & visiting my GitHub profile. 🙏</h2>
